@@ -2,7 +2,7 @@ import mongoose from "mongoose"
 import express from "express"
 import cors from "cors"
 import dotenv from "dotenv"
-import { Test } from "./backend/controllers/alumnos.controller.js"
+import { Test } from "./backend/controllers/Papeleria.controller.js"
 
 dotenv.config();
 const app = express();
